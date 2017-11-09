@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="choose">Choose one!</string>
+    <string name="your_score">YOU: 0</string>
+    <string name="com_score">COM: 0</string>
+    <string name="welcome">This is a game of chance. Click buttons, see what happens, observe scores. Best of luck.</string>
+
+</resources>
